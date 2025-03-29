@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotnetlab
+namespace dotnetlab.lab2
 {
     internal class Check
     {
@@ -33,7 +33,7 @@ namespace dotnetlab
 
         public bool isLeap(int year)
         {
-            if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+            if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0)
             {
                 return true;
             }

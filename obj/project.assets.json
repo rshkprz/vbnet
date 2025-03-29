@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rshkprz\\source\\repos\\dotnetlab\\lab2.csproj",
-      "projectName": "lab2",
-      "projectPath": "C:\\Users\\rshkprz\\source\\repos\\dotnetlab\\lab2.csproj",
+      "projectUniqueName": "C:\\Users\\rshkprz\\source\\repos\\dotnetlab\\dotnetlab.csproj",
+      "projectName": "dotnetlab",
+      "projectPath": "C:\\Users\\rshkprz\\source\\repos\\dotnetlab\\dotnetlab.csproj",
       "packagesPath": "C:\\Users\\rshkprz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rshkprz\\source\\repos\\dotnetlab\\obj\\",
       "projectStyle": "PackageReference",
