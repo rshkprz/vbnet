@@ -12,3 +12,8 @@ Check whether a given year is a leap year or not. <br>
 Create an integer array and print sum of array element. <br>
 Write a C# Sharp program to calculate the factorial of a given number. <br>
 Write a program to check if input number is a prime number. <br>
+
+## OOP
+Function Overloading <br>
+Interfaces <br>
+Check Palindrome <br>
