@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotnetlab
+namespace dotnetlab.lab2
 {
     internal class Sum
     {
