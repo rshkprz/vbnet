@@ -15,5 +15,9 @@ Write a program to check if input number is a prime number. <br>
 
 ## OOP
 Function Overloading <br>
-Interfaces <br>
+Inheritance <br>
 Check Palindrome <br>
+
+## winForms
+Simple Calculator <br>
+Login Form <br>
