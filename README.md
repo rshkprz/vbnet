@@ -21,3 +21,6 @@ Check Palindrome <br>
 ## winForms
 Simple Calculator <br>
 Login Form <br>
+
+## RegForm using panels 
+Winform containing register form, login form and calculator <br>
